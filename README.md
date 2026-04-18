@@ -28,7 +28,7 @@ Un petit jeu Snake développé en Java avec une interface graphique moderne (Swi
 
 ## 📸 Aperçu
 
-*(Tu peux ajouter un screenshot ici plus tard)*
+![Gameplay](assets/exemple.png)
 
 ---
 
