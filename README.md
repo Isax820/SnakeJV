@@ -1,3 +1,13 @@
+# 📜 Preview
+
+![Java](https://img.shields.io/badge/Java-25-orange)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
+![Game](https://img.shields.io/badge/type-Game-purple)
+
+---
+
 # 🐍 SnakeJV (Java)
 
 Un petit jeu Snake développé en Java avec une interface graphique moderne (Swing).
@@ -64,7 +74,7 @@ snake-game/
 
 ## 🛠️ Technologies utilisées
 
-* Java
+* Java 25
 * Swing (interface graphique)
 * Maven (build)
 
