@@ -92,7 +92,7 @@ snake-game/
 
 ## 📄 Licence
 
-Projet libre – tu peux le modifier et l’améliorer 👍
+Projet avec [MIT License](https://raw.githubusercontent.com/Isax820/SnakeJV/refs/heads/main/LICENSE) – tu peux faire un fork et l’améliorer 👍
 
 ---
 
